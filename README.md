@@ -37,7 +37,7 @@
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/apptube/?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/?raw=true)
+
 
 ### 모시러 드라이버
 > 회사 : AppTube
@@ -48,7 +48,10 @@
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap0.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap1.jpeg?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_01.jpg?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_02.jpg?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_03.jpg?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_04.jpg?raw=true) 
 
 ### 동화면세점 국문, 중문
 > 회사 : AppTube
