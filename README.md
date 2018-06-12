@@ -142,11 +142,11 @@
 <br />
 
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_01.jpg?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_02.png?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_03.png?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_04.png?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_05.png?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_06.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_02.PNG?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_03.PNG?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_04.PNG?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_05.PNG?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_06.PNG?raw=true)
 
 	
 ### [QuickNotes]
