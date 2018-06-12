@@ -68,27 +68,22 @@
 ![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_04.jpg?raw=true) 
 ![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_05.jpg?raw=true) 
 
-### 골목대장 통 유저
+### 골목대장 통 유저, 상점용
 > 회사 : NPD 마당
-> 앱소개 : 사용자 위치기반으로 지역상점 소개, 주변매장 검색, 포인트 적립 및 포인트 환급을 위해 제작된 앱.
+> 앱소개 : 사용자 위치기반으로 지역상점 소개 ,주변매장 검색, 포인트 적립 및 포인트 환급, 모바일전단 광고를 위해 제작된 앱.
 > * 개발 기술 : Swift, StoryBoard Auto Layout
 > * 담당 업무 : 개발. 
 > * 앱스토어 : 현재 스토어에서 내려감
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_01.png?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_02.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_03.png?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_04.png?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_05.png?raw=true) 
 
-### 골목대장 상점용 
-> 회사 : NPD 마당
-> 앱소개 : 모바일 전단광고 위해 제작된 앱.
-> * 개발 기술 : Swift, StoryBoard Auto Layout
-> * 담당 업무 : 개발. 
-> * 앱스토어 : 현재 스토어에서 내려감
 
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.png?raw=true)
 
 #### 삼성SDI케미칼 전사 분리
 > 회사 : 위키
@@ -139,23 +134,33 @@
 <br />
 
 # 개인 프로젝트
-### [아이돌볼][1]
+### [아이돌볼]
 * 소개 : 국가에서 지원하는 12세 이하 아동 돌보미 서비스 기관 검색 앱.
 * 개발 기술 : Swift, Mvvm, RxSwift, fireBase Realtime Database, Code Base Auto Layout(Snapkit)
 * 개발 기간 : 2018.4 ~ 2018.5
 * 앱스토어 : 현재 스토어에서 내려감
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_2.PNG?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_01.jpg?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_02.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_03.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_04.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_05.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_06.png?raw=true)
+
 	
-### [Je Diary][2]
-* 소개 : 메모들을 태그로 편리하게 나누어 저장하여 관리할 수 있는 앱.
+### [QuickNotes]
+* 소개 : 빠르게 메모를 작성할수 있는 앱.
 * 개발 기술 : Swift, SQlite, StoryBoard Auto Layout
-* 개발 기간 : 2015.9
+* 개발 기간 : 2017.01 ~ 2017. 02
 * 앱스토어 : 현재 스토어에서 내려감
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_2.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_01.jpg?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_02.jpg?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_03.jpg?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_04.jpg?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_05.jpg?raw=true)
 
 
