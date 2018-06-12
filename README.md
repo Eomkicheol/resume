@@ -32,7 +32,7 @@
 > 회사 : AppTube
 > 앱소개 : 프리미엄 인기 마사지, 스파샵정보 제공을 위해 제작된 앱.
 > * 개발 기술 : Swift, Mvvm, RxSwift, Code Base Auto Layout(Snapkit)
-> * 담당 업무 : 설계 및 개발
+> * 담당 업무 : 설계 및 개발 
 > * 앱스토어 : 
 
 <br />
@@ -144,7 +144,6 @@
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_01.jpg?raw=true)
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_02.PNG?raw=true)
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_03.PNG?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_04.PNG?raw=true)
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_05.PNG?raw=true)
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_06.PNG?raw=true)
 
