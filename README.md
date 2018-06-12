@@ -48,7 +48,7 @@
 
 <br />
 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_01.jpg?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_01.jpg?raw=true) 
 ![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_02.jpg?raw=true)
 ![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_03.jpg?raw=true) 
 ![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_04.jpg?raw=true) 
@@ -62,7 +62,11 @@
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.png?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_01.jpg?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_02.jpg?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_03.jpg?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_04.jpg?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_05.jpg?raw=true) 
 
 ### 골목대장 통 유저
 > 회사 : NPD 마당
