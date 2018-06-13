@@ -66,11 +66,11 @@
 
 <br />
 
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_01.png?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_02.png?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_03.png?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_04.png?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_05.png?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_01.PNG?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_02.PNG?raw=true)
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_03.PNG?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_04.PNG?raw=true) 
+![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_05.PNG?raw=true) 
 
 
 
