@@ -45,7 +45,7 @@
 ### 동화면세점 국문, 중문
 > 회사 : AppTube
 > 앱소개 : 동화면세점 제품 구매를 위해 제작된 앱.
-> * 개발 기술 : Swift, WebKit, StoryBoard Auto Layout
+> * 개발 기술 : Swift, WebKit
 > * 담당 업무 : 설계 및 개발 유지/보수 작업.
 > * 앱스토어 : https://itunes.apple.com/kr/app/%EB%8F%99%ED%99%94%EB%A9%B4%EC%84%B8%EC%A0%90/id695404582?mt=8
 
@@ -60,7 +60,7 @@
 ### 골목대장 통 유저, 상점용
 > 회사 : NPD 마당
 > 앱소개 : 사용자 위치기반으로 지역상점 소개 ,주변매장 검색, 포인트 적립 및 포인트 환급, 모바일전단 광고를 위해 제작된 앱.
-> * 개발 기술 : Swift, StoryBoard Auto Layout
+> * 개발 기술 : Swift
 > * 담당 업무 : 개발. 
 > * 앱스토어 : 현재 스토어에서 내려감
 
@@ -125,7 +125,7 @@
 # 개인 프로젝트
 ### [아이돌볼]
 * 소개 : 국가에서 지원하는 12세 이하 아동 돌보미 서비스 기관 검색 앱.
-* 개발 기술 : Swift, Mvvm, RxSwift, fireBase Realtime Database, Code Base Auto Layout(Snapkit)
+* 개발 기술 : Swift, Mvvm, RxSwift, fireBase Realtime Database
 * 개발 기간 : 2018.4 ~ 2018.5
 * 앱스토어 : 현재 스토어에서 내려감
 <br />
@@ -139,7 +139,7 @@
 	
 ### [QuickNotes]
 * 소개 : 빠르게 메모를 작성할수 있는 앱.
-* 개발 기술 : Swift, SQlite, StoryBoard Auto Layout
+* 개발 기술 : Swift, SQlite
 * 개발 기간 : 2017.01 ~ 2017. 02
 * 앱스토어 : 현재 스토어에서 내려감
 
