@@ -28,17 +28,6 @@
 # 회사 프로젝트
 ## iOS
 
-### SuperTai
-> 회사 : AppTube
-> 앱소개 : 프리미엄 인기 마사지, 스파샵정보 제공을 위해 제작된 앱.
-> * 개발 기술 : Swift, Mvvm, RxSwift, Code Base Auto Layout(Snapkit)
-> * 담당 업무 : 설계 및 개발 
-> * 앱스토어 : 
-
-<br />
-
-
-
 ### 모시러 드라이버
 > 회사 : AppTube
 > 앱소개 : 품격있는 시간제 수행기사 서비스 앱
