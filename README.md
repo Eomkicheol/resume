@@ -55,13 +55,8 @@
 > * 담당 업무 : 설계 및 개발 유지/보수 작업.
 > * 앱스토어 : https://itunes.apple.com/kr/app/%EB%8F%99%ED%99%94%EB%A9%B4%EC%84%B8%EC%A0%90/id695404582?mt=8
 
-<br />
+<img src="images/apptube/dongwha_01.jpg" width="160"/> <img src="images/apptube/dongwha_02.jpg" width="160"/> <img src="images/apptube/dongwha_03.jpg" width="160"/> <img src="images/apptube/dongwha_04.jpg" width="160"/>
 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_01.jpg?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_02.jpg?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_03.jpg?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_04.jpg?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/dongwha_05.jpg?raw=true) 
 
 ### 골목대장 통 유저, 상점용
 > 회사 : NPD 마당
@@ -70,14 +65,7 @@
 > * 담당 업무 : 개발. 
 > * 앱스토어 : 현재 스토어에서 내려감
 
-<br />
-
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_01.PNG?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_02.PNG?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_03.PNG?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_04.PNG?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/npd/tong_05.PNG?raw=true) 
-
+<img src="images/npd/tong_01.PNG" width="160"/> <img src="images/npd/tong_02.PNG" width="160"/> <img src="images/npd/tong_03.PNG" width="160"/> <img src="images/npd/tong_04.PNG" width="160"/>  <img src="images/npd/tong_05.PNG" width="160"/>
 
 
 #### 삼성SDI케미칼 전사 분리
