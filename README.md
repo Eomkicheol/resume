@@ -45,7 +45,6 @@
 > * 담당 업무 : 설계 및 개발 유지/보수 작업.
 > * 앱스토어 : https://itunes.apple.com/app/apple-store/id1262965984
 
-<br />
 <img src="images/apptube/mosiler_01.jpg" width="160"/> <img src="images/apptube/mosiler_02.jpg" width="160"/> <img src="images/apptube/mosiler_03.jpg" width="160"/> <img src="images/apptube/mosiler_04.jpg" width="160"/>
 
 
@@ -173,5 +172,5 @@
 - Fabric Crashlytics
 - naver SDK(map, login)
 - kakao SDK(Navi, login, search api, map)
-- google SDK(login, map)
-- facebook SDK(login)
+- google SDK(login, map, admob)
+- facebook SDK(login,  audience Network)
