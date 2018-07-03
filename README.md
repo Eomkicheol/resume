@@ -95,8 +95,6 @@
 > 회사 : ezfarm
 > * 개발 기술 : Java, Spring, xflatform
 > * 기존복잡한 업무등록 시스템 고도화 작업.
-
-
 <br />
 
 ## 현대라이프 모바일 전자청약
@@ -113,7 +111,6 @@
 > 회사 : ITPOP
 > * 개발 기술 : Java
 > * 태블릿과 LGBest 시스템간에 인터페이스 서버 개발
-
 <br />
 
 # 개인 프로젝트
@@ -122,13 +119,8 @@
 * 개발 기술 : Swift, Mvvm, RxSwift, fireBase Realtime Database
 * 개발 기간 : 2018.4 ~ 2018.5
 * 앱스토어 : 현재 스토어에서 내려감
-<br />
 
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_01.jpg?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_02.PNG?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_03.PNG?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_05.PNG?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/baby_06.PNG?raw=true)
+<img src="images/individual/baby_01.jpg" width="160"/> <img src="images/individual/baby_02.jpg" width="160"/> <img src="images/individual/baby_03.jpg" width="160"/> <img src="images/individual/baby_04.jpg" width="160"/>  <img src="images/individual/baby_05.jpg" width="160"/>
 
 	
 ### [QuickNotes]
@@ -137,13 +129,7 @@
 * 개발 기간 : 2017.01 ~ 2017. 02
 * 앱스토어 : 현재 스토어에서 내려감
 
-<br />
-
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_01.jpg?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_02.jpg?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_03.jpg?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_04.jpg?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_05.jpg?raw=true)
+<img src="images/individual/quickNotes_01.jpg" width="160"/> <img src="images/individual/quickNotes_02.jpg" width="160"/> <img src="images/individual/quickNotes_03.jpg" width="160"/> <img src="images/individual/quickNotes_04.jpg" width="160"/>  <img src="images/individual/quickNotes_05.jpg" width="160"/>
 
 ## 보유기술 및 사용가능 라이브러리
 
