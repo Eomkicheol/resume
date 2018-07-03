@@ -119,7 +119,7 @@
 * 개발 기간 : 2018.4 ~ 2018.5
 * 앱스토어 : 현재 스토어에서 내려감
 
-<img src="images/individual/baby_01.jpg" width="160"/> <img src="images/individual/baby_02.jpg" width="160"/> <img src="images/individual/baby_03.jpg" width="160"/> <img src="images/individual/baby_04.jpg" width="160"/>  <img src="images/individual/baby_05.jpg" width="160"/>
+<img src="images/individual/baby_01.jpg" width="160"/> <img src="images/individual/baby_02.PNG" width="160"/> <img src="images/individual/baby_03.PNG" width="160"/> <img src="images/individual/baby_04.PNG" width="160"/>  <img src="images/individual/baby_05.PNG" width="160"/>
 
 	
 ### [QuickNotes]
