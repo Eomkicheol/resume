@@ -131,7 +131,7 @@
 <img src="images/individual/quickNotes_01.jpg" width="160"/> <img src="images/individual/quickNotes_02.jpg" width="160"/> <img src="images/individual/quickNotes_03.jpg" width="160"/> <img src="images/individual/quickNotes_04.jpg" width="160"/>  <img src="images/individual/quickNotes_05.jpg" width="160"/>
 
 ## 보유기술 및 사용가능 라이브러리
-
+ 
 - Swift
 - RxSwift
 - Architecture Framework(MVVM, RxViewBinder)
