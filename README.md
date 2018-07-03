@@ -1,6 +1,6 @@
 엄기철 Eom Kicheol
--
-**iOS Developer
+
+- iOS Developer
 - Mail : <eom-kicheol@naver.com>  
 - github : https://github.com/EomKicheol
  <br /> <br />
