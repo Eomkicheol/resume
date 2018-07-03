@@ -28,19 +28,26 @@
 # 회사 프로젝트
 ## iOS
 
+### 하이타이
+- 소개 : 위치 기반의 태국 마사지샵 검색 서비스
+- 소속 : 앱튜브
+- 기간 : 2017.09 ~ 현재
+- 내용 : iOS 개발 및 서비스
+- 사용기술 : iOS, Swift, RxSwift, SnapKit, Mvvm
+- AppStore : https://itunes.apple.com/kr/app/id947725771
+
+<img src="images/hitai-1.jpg" width="160"/> <img src="images/hitai-2.jpg" width="160"/> <img src="images/hitai-3.jpg" width="160"/> <img src="images/hitai-4.jpg" width="160"/> <img src="images/hitai-5.jpg" width="160"/>
+
 ### 모시러 드라이버
 > 회사 : AppTube
-> 앱소개 : 품격있는 시간제 수행기사 서비스 앱
+> 앱소개 :  위치 기반의 시간제 차량 수행 기사 서비스
 > * 개발 기술 : Swift, Mvvm, RxSwift, Code Base Auto Layout(Snapkit)
 > * 담당 업무 : 설계 및 개발 유지/보수 작업.
 > * 앱스토어 : https://itunes.apple.com/app/apple-store/id1262965984
 
 <br />
+<img src="images/apptube/mosiler_01.jpg" width="160"/> <img src="images/apptube/mosiler_02.jpg" width="160"/> <img src="images/apptube/mosiler_03.jpg" width="160"/> <img src="images/apptube/mosiler_04.jpg" width="160"/>
 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_01.jpg?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_02.jpg?raw=true)
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_03.jpg?raw=true) 
-![](https://github.com/EomKicheol/resume/blob/master/images/apptube/mosiler_04.jpg?raw=true) 
 
 ### 동화면세점 국문, 중문
 > 회사 : AppTube
@@ -151,4 +158,20 @@
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_04.jpg?raw=true)
 ![](https://github.com/EomKicheol/resume/blob/master/images/individual/quickNotes_05.jpg?raw=true)
 
+## 보유기술 및 사용가능 라이브러리
 
+- Swift
+- RxSwift
+- Architecture Framework(MVVM, RxViewBinder)
+- Restful API Network(alamofire, moya)
+- image downloading and caching(SDWebImage, Kingfisher)
+- Autolayout(Storyboard & Code Base)
+- SnapKit
+- WKWebView
+- Sqlite
+- firebase
+- Fabric Crashlytics
+- naver SDK(map, login)
+- kakao SDK(Navi, login, search api, map)
+- google SDK(login, map)
+- facebook SDK(login)
