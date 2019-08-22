@@ -33,7 +33,8 @@
  
 # 회사 프로젝트
 ## iOS
-## HAULLA
+
+### HAULLA
 - 회사 : Ecube Labs
 - 앱소개 : generator와 hauler를 실시간 bidding & matching
 - 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit)
