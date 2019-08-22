@@ -7,6 +7,9 @@
  
 경력
 -
+### Ecube Labs
+* 2019.06 ~ 
+
 ###  딜리버리 히어로 코리아
 * 2018.09 ~ 2019.03
 
@@ -26,17 +29,21 @@
 * 2012.03 ~ 2013.04
 
 
-
-
  <br /> <br />
  
 # 회사 프로젝트
 ## iOS
+## HAULLA
+- 회사 : Ecube Labs
+- 앱소개 : 쓰레기 수거자와 배출자를 매칭해주는 B2C앱
+- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit)
+- 담당 업무 : 설계, 개발
+- 앱스토어 : 스토어 등록 대기중
 
 ### 푸드플라이 라이더앱
 - 회사 : 딜리버리히어로 코리아
 - 앱소개 : 푸드플라이 라이더 앱
-- 개발 기술 : Swift, Mvvm, RxSwift,
+- 개발 기술 : Swift, Mvvm, RxSwift
 - 담당 업무 : 개발 유지/보수 작업
 - 앱스토어 : 사내 배포용
 
@@ -167,3 +174,4 @@ Target Device 갤럭시 10.1 노트 LTE
 - kakao SDK(Navi, login, search api, map)
 - google SDK(login, map, admob)
 - facebook SDK(login,  audience Network)
+
