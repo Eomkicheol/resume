@@ -35,10 +35,12 @@
 ## iOS
 ## HAULLA
 - 회사 : Ecube Labs
-- 앱소개 : 쓰레기 수거자와 배출자를 매칭해주는 B2C앱
+- 앱소개 : generator와 hauler를 실시간 bidding & matching
 - 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit)
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
+
+<img src="images/EcubeLabs/IMG_5372 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5371.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5370 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5369 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5368.PNG" width="160"/>  <img src="images/EcubeLabs/IMG_5367 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5366.PNG" width="160"/>  <img src="images/EcubeLabs/IMG_5365.PNG" width="160"/> 
 
 ### 푸드플라이 라이더앱
 - 회사 : 딜리버리히어로 코리아
