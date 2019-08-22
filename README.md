@@ -178,5 +178,3 @@ Target Device 갤럭시 10.1 노트 LTE
 - google SDK(login, map, admob)
 - facebook SDK(login,  audience Network)
 - kicc, 이니시스 결제 연동
-
-- kicc, ㅇ
