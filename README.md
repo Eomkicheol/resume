@@ -31,8 +31,8 @@
 
  <br /> <br />
  
-# 회사 프로젝트
-## iOS
+### 회사 프로젝트
+### iOS
 
 ### HAULLA
 - 회사 : Ecube Labs
@@ -177,4 +177,6 @@ Target Device 갤럭시 10.1 노트 LTE
 - kakao SDK(Navi, login, search api, map)
 - google SDK(login, map, admob)
 - facebook SDK(login,  audience Network)
+- kicc, 이니시스 결제 연동
 
+- kicc, ㅇ
