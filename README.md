@@ -44,12 +44,12 @@
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
 
-<img src="images/Jax/01.png" width="160"/> 
-<img src="images/Jax/02.png" width="160"/> 
-<img src="images/Jax/03.png" width="160"/> 
-<img src="images/Jax/04.png" width="160"/> 
-<img src="images/Jax/05.png" width="160"/> 
-<img src="images/Jax/06.png" width="160"/> 
+<img src="images/Jax/01.png" width="160"/> <img 
+src="images/Jax/02.png" width="160"/> <img 
+src="images/Jax/03.png" width="160"/> <img 
+src="images/Jax/04.png" width="160"/> <img 
+src="images/Jax/05.png" width="160"/> <img 
+src="images/Jax/06.png" width="160"/> 
 
 
 ### HAULLA
