@@ -7,8 +7,11 @@
  
 경력
 -
+### Wavers ###
+* 2019.09 ~ 
+
 ### Ecube Labs
-* 2019.06 ~ 
+* 2019.06 ~ 2019.09
 
 ###  딜리버리 히어로 코리아
 * 2018.09 ~ 2019.03
@@ -33,6 +36,13 @@
  
 ### 회사 프로젝트
 ### iOS
+
+### JAXMotors
+- 회사 : Wavers
+- 앱소개 : 앱에서 내 차 정비 이력을 앱에서 한 눈에 조회, 간편한 예약, 내 차를 위한 맞춤형 케어
+- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit), Wkweb
+- 담당 업무 : 설계, 개발
+- 앱스토어 : 스토어 등록 대기중
 
 ### HAULLA
 - 회사 : Ecube Labs
@@ -178,3 +188,4 @@ Target Device 갤럭시 10.1 노트 LTE
 - google SDK(login, map, admob)
 - facebook SDK(login,  audience Network)
 - kicc, 이니시스 결제 연동
+- Tmap 
