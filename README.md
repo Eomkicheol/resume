@@ -22,16 +22,6 @@
 ### NPD 마당
 * 2017.03 ~ 2017.06
 
-### 위키
-* 2016.01 ~ 2016.11
-
-### ezfarm
-* 2013.05 ~ 2015.11
-
-### ITPOP
-* 2012.03 ~ 2013.04
-
-
  <br /> <br />
  
 ### 회사 프로젝트
@@ -40,7 +30,7 @@
 ### JAXMotors
 - 회사 : Wavers
 - 앱소개 : 앱에서 내 차 정비 이력을 앱에서 한 눈에 조회, 간편한 예약, 내 차를 위한 맞춤형 케어
-- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit), Wkweb
+- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
 
@@ -50,7 +40,6 @@ src="images/Jax/03.png" width="160"/> <img
 src="images/Jax/04.png" width="160"/> <img 
 src="images/Jax/05.png" width="160"/> <img 
 src="images/Jax/06.png" width="160"/> 
-
 
 ### HAULLA
 - 회사 : Ecube Labs
@@ -106,60 +95,6 @@ src="images/Jax/06.png" width="160"/>
 
 <img src="images/npd/tong_01.PNG" width="160"/> <img src="images/npd/tong_02.PNG" width="160"/> <img src="images/npd/tong_03.PNG" width="160"/> <img src="images/npd/tong_04.PNG" width="160"/>  <img src="images/npd/tong_05.PNG" width="160"/>
 
-## JAVA
-
-#### 삼성SDI케미칼 전사 분리
-- 회사 : 위키
-- 개발 기술 : Java, Spring, Xplatform, Oracle
-- 업무 내용 :기존 삼성 시스템과 SID케미칼 사의 연계된 NON- ERP 시스템 분리
-<br />
-
-#### 근로복지공단 상담 APP
-- 회사 : 위키
-- 개발 기술 : Java, JavaScript, Oracle
-- 업무 내용 : 기존복잡한 근로복지공단 상담 시스템 개발
-<br />
-
-
-#### Kahis 역학조사 고도화
-- 회사 : ezfarm
-- 개발 기술 : Java, Spring, Xplatform, Oracle
-- 업무 내용 : 기존복잡한 업무등록 시스템 고도화 작업
-
-#### 가금농가 컨설팅 현지조사 
-- 회사 : ezfarm
-- 개발 기술 : Java, Spring, Xplatform, Oracle
-- 업무 내용 : 가금농장의 운영상태 및 질병, 사양 컨설팅 정보 통합관리
-
-#### Kahis
-- 회사 : ezfarm
-- 개발 기술 : Java, Spring, Xplatform, Oracle
-- 업무 내용 : 가축질별 방생의 사전예방 및 질병 발생시 확산 방지를 위해 최신 정보통신(ICT)기술을 활용하여 동물질병 및 가축방역 정보 통합정보 시스템 운영 및 개발
-<br />
-
-
-#### 현대라이프 모바일 전자청약 개발
-- 회사 : ITPOP
-- 개발 기술 : Java, Android
-- 업무 내용 : 현대라이프 모바일 전자청약 개발
-- Android용 모바일 전자청약 개발 
-Target Device 갤럭시 10.1 노트 LTE
-
-#### 동부화재 모바일 전자청약 연계서버 개발 
-- 회사 : ITPOP
-- 개발 기술 : Java, Oracle
-- 업무 내용 : 태블릿과 동부 화재 시스템 간에 인터페이스 서버 개발
-- 동부 화재에서 사용 되고 있는 코볼 전문 통신 작업 연계
-
-#### LG하이프라자 모바일 상품구매
-- 회사 : ITPOP
-- 개발 기술 : Java, Oracle
-- 업무 내용 : Lg하이프라자 모바일 기간계 시스템 중계서버 개발
-- 태블릿을 이용한 상품 구매 시스템 개발
-- 태블릿과 LGBEST 시스템간에 인터페이스 서버 개발
-<br />
-
-
 # 개인 프로젝트
 ### [아이돌볼]
 * 소개 : 국가에서 지원하는 12세 이하 아동 돌보미 서비스 기관 검색 앱.
@@ -192,8 +127,9 @@ Target Device 갤럭시 10.1 노트 LTE
 - firebase
 - Fabric Crashlytics
 - naver SDK(map, login)
-- kakao SDK(Navi, login, search api, map)
+- kakao SDK(Navi, login, search api, map, channelTalk)
 - google SDK(login, map, admob)
 - facebook SDK(login,  audience Network)
 - kicc, 이니시스 결제 연동
 - Tmap 
+- AppleLogin
