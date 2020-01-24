@@ -27,6 +27,21 @@
 ### 회사 프로젝트
 ### iOS
 
+### 직차
+- 회사 : Wavers
+- 앱소개 : 중고차 개인직거래 플랫폼
+- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
+- 담당 업무 : 설계, 개발
+- 앱스토어 : 스토어 등록 대기중
+
+<img src="images/ziccha/01.png" width="160"/> <img 
+src="images/ziccha/02.png" width="160"/> <img 
+src="images/ziccha/03.png" width="160"/> <img 
+src="images/ziccha/04.png" width="160"/> <img 
+src="images/ziccha/05.png" width="160"/> <img 
+src="images/ziccha/06.png" width="160"/> <img 
+src="images/ziccha/07.png" width="160"/> 
+
 ### JAXMotors
 - 회사 : Wavers
 - 앱소개 : 앱에서 내 차 정비 이력을 앱에서 한 눈에 조회, 간편한 예약, 내 차를 위한 맞춤형 케어
