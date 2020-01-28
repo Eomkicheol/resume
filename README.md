@@ -70,7 +70,7 @@ src="images/Jax/06.png" width="160"/>
 - 앱소개 : generator와 hauler를 실시간 bidding & matching
 - 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit)
 - 담당 업무 : 설계, 개발
-- 앱스토어 : 스토어 등록 대기중
+- 앱스토어 : 스토어 등록 대기중(북미, 유럽 지역 서비스 예정)
 
 <img src="images/EcubeLabs/IMG_5372 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5371.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5370 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5369 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5368.PNG" width="160"/>  <img src="images/EcubeLabs/IMG_5367 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5366.PNG" width="160"/>  <img src="images/EcubeLabs/IMG_5365.PNG" width="160"/> 
 
