@@ -39,7 +39,7 @@
 ### 직차
 - 회사 : Wavers
 - 앱소개 : 중고차 개인직거래 플랫폼
-- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
+- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
 
@@ -54,7 +54,7 @@ src="images/ziccha/07.png" width="160"/>
 ### JAXMotors
 - 회사 : Wavers
 - 앱소개 : 앱에서 내 차 정비 이력을 앱에서 한 눈에 조회, 간편한 예약, 내 차를 위한 맞춤형 케어
-- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
+- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
 
@@ -68,7 +68,7 @@ src="images/Jax/06.png" width="160"/>
 ### HAULLA
 - 회사 : Ecube Labs
 - 앱소개 : generator와 hauler를 실시간 bidding & matching
-- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit)
+- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit)
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
 
@@ -84,7 +84,7 @@ src="images/Jax/06.png" width="160"/>
 ### 하이타이
 - 회사 : AppTube
 - 앱소개 : 위치 기반의 태국 마사지샵 검색 서비스
-- 개발 기술 : Swift, Mvvm, RxSwift, Code Base Auto Layout(Snapkit)
+- 개발 기술 : Swift, MVVM, RxSwift, Code Base Auto Layout(Snapkit)
 - 담당 업무 : 설계 및 개발 유지/보수 작업
 - 앱스토어  : https://itunes.apple.com/kr/app/id947725771
 
@@ -93,7 +93,7 @@ src="images/Jax/06.png" width="160"/>
 ### 모시러 드라이버
 - 회사 : AppTube
 - 앱소개 :  위치 기반의 시간제 차량 수행 기사 서비스
-- 개발 기술 : Swift, Mvvm, RxSwift, Code Base Auto Layout(Snapkit)
+- 개발 기술 : Swift, MVVM, RxSwift, Code Base Auto Layout(Snapkit)
 - 담당 업무 : 설계 및 개발 유지/보수 작업
 - 앱스토어 : https://itunes.apple.com/app/apple-store/id1262965984
 
@@ -122,7 +122,7 @@ src="images/Jax/06.png" width="160"/>
 # 개인 프로젝트
 ### [아이돌볼]
 * 소개 : 국가에서 지원하는 12세 이하 아동 돌보미 서비스 기관 검색 앱.
-* 개발 기술 : Swift, Mvvm, RxSwift, fireBase Realtime Database
+* 개발 기술 : Swift, MVVM, RxSwift, fireBase Realtime Database
 * 개발 기간 : 2018.4 ~ 2018.5
 * 앱스토어 : 현재 스토어에서 내려감
 
@@ -208,5 +208,5 @@ Target Device 갤럭시 10.1 노트 LTE
 - google SDK(login, map, admob)
 - facebook SDK(login,  audience Network)
 - kicc, 이니시스 결제 연동
-- Tmap 
+- T-map 
 - AppleLogin
