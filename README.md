@@ -33,6 +33,26 @@
 
  <br /> <br />
  
+ ## 보유기술 및 사용가능 라이브러리
+ - Swift
+ - RxSwift
+ - Architecture Framework(MVVM, RxViewBinder)
+ - Restful API Network(alamofire, moya)
+ - image downloading and caching(SDWebImage, Kingfisher)
+ - Autolayout(Storyboard & Code Base)
+ - SnapKit
+ - WKWebView
+ - Sqlite
+ - firebase
+ - Fabric Crashlytics
+ - naver SDK(map, login)
+ - kakao SDK(Navi, login, search api, map, channelTalk)
+ - google SDK(login, map, admob)
+ - facebook SDK(login,  audience Network)
+ - kicc, 이니시스 결제 연동
+ - T-map 
+ - AppleLogin
+ 
 ### 회사 프로젝트
 ### iOS
 
@@ -189,24 +209,3 @@ Target Device 갤럭시 10.1 노트 LTE
 - 태블릿을 이용한 상품 구매 시스템 개발
 - 태블릿과 LGBEST 시스템간에 인터페이스 서버 개발
 <br />
-
-## 보유기술 및 사용가능 라이브러리
- 
-- Swift
-- RxSwift
-- Architecture Framework(MVVM, RxViewBinder)
-- Restful API Network(alamofire, moya)
-- image downloading and caching(SDWebImage, Kingfisher)
-- Autolayout(Storyboard & Code Base)
-- SnapKit
-- WKWebView
-- Sqlite
-- firebase
-- Fabric Crashlytics
-- naver SDK(map, login)
-- kakao SDK(Navi, login, search api, map, channelTalk)
-- google SDK(login, map, admob)
-- facebook SDK(login,  audience Network)
-- kicc, 이니시스 결제 연동
-- T-map 
-- AppleLogin
