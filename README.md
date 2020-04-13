@@ -7,8 +7,11 @@
  
 경력
 -
+### Bbros ###
+* 2020.02 ~ 
+
 ### Wavers ###
-* 2019.09 ~ 
+* 2019.09 ~ 2020.02(프리랜서)
 
 ### Ecube Labs
 * 2019.06 ~ 2019.09(프리랜서)
@@ -57,6 +60,27 @@
  
 ### 회사 프로젝트
 ### iOS
+
+### 똑닥
+- 회사 : Bbros
+- 앱소개 : 내주변 병원, 약국 검색, 간편한 증상 선택 후 병붠 예약, 접수, 실시간 진료순서 확인 및 순번 알림 받기, 영유아 검진 사전 문진표 
+- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb
+- 담당 업무 : 설계, 개발, 운영
+- 업무 내용 : (Swift Language Version → 3.0 에서 5.0으로 컨버팅 작업 진행
+	오픈소스 라이브러리 Swift Language Version 에 따른 에러 해결 )
+	신규 검색 기능 고도화 작업시 MVVM아키텍쳐, RxSwift, Snapkit 적용,  통신 Layer분리 작업 진행ㄴ 
+- 앱스토어 : https://apps.apple.com/kr/app/똑닥/id1014889755
+
+<img src="images/bbros/01.png" width="160"/> <img 
+src="images/bbros/02.png" width="160"/> <img 
+src="images/bbros/03.png" width="160"/> <img 
+src="images/bbros/04.png" width="160"/> <img 
+src="images/bbros/05.png" width="160"/> <img 
+src="images/bbros/06.png" width="160"/> <img 
+src="images/bbros/07.png" width="160"/> <img 
+src="images/bbros/08.png" width="160"/> <img 
+src="images/bbros/09.png" width="160"/> <img 
+src="images/bbros/10.png" width="160"/> 
 
 ### 직차
 - 회사 : Wavers
