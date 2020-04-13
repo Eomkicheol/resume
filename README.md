@@ -68,7 +68,7 @@
 - 담당 업무 : 설계, 개발, 운영
 - 업무 내용 : (Swift Language Version → 3.0 에서 5.0으로 컨버팅 작업 진행
 	오픈소스 라이브러리 Swift Language Version 에 따른 에러 해결 )
-	신규 검색 기능 고도화 작업시 MVVM아키텍쳐, RxSwift, Snapkit 적용,  통신 Layer분리 작업 진행ㄴ 
+	신규 검색 기능 고도화 작업시 MVVM아키텍쳐, RxSwift, Snapkit 적용,  통신 Layer분리 작업
 - 앱스토어 : https://apps.apple.com/kr/app/똑닥/id1014889755
 
 <img src="images/bbros/01.png" width="160"/> <img 
