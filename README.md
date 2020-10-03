@@ -41,18 +41,18 @@
  - RxSwift
  - Architecture Framework(MVVM, RxViewBinder)
  - Restful API Network(alamofire, moya)
- - image downloading and caching(SDWebImage, Kingfisher)
+ - Image downloading and caching(SDWebImage, Kingfisher)
  - Autolayout(Storyboard & Code Base)
  - SnapKit
  - WKWebView
  - Sqlite
- - firebase
+ - Firebase
  - Fabric Crashlytics
- - naver SDK(map, login)
- - kakao SDK(Navi, login, search api, map, channelTalk)
- - google SDK(login, map, admob)
- - facebook SDK(login,  audience Network)
- - kicc, 이니시스 결제 연동
+ - Naver SDK(map, login)
+ - Kakao SDK(Navi, login, search api, map, channelTalk)
+ - Google SDK(login, map, admob)
+ - Facebook SDK(login,  audience Network)
+ - Kicc, 이니시스 결제 연동
  - T-map 
  - AppleLogin
  - XcodeGen
@@ -66,7 +66,7 @@
 ### 똑닥
 - 회사 : Bbros
 - 앱소개 : 내주변 병원, 약국 검색, 간편한 증상 선택 후 병붠 예약, 접수, 실시간 진료순서 확인 및 순번 알림 받기, 영유아 검진 사전 문진표 
-- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb
+- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, SnsLogin(kakao, facebook, naver, apple)
 - 담당 업무 : 설계, 개발, 운영
 - 업무 내용 : (Swift Language Version → 3.0 에서 5.0으로 컨버팅 작업 진행
 	오픈소스 라이브러리 Swift Language Version 에 따른 에러 해결 )
@@ -87,7 +87,7 @@ src="images/bbros/10.png" width="160"/>
 ### 직차
 - 회사 : Wavers
 - 앱소개 : 중고차 개인직거래 플랫폼
-- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
+- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, SnsLogin(kakao, facebook, naver, apple)
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
 
@@ -102,7 +102,7 @@ src="images/ziccha/07.png" width="160"/>
 ### JAXMotors
 - 회사 : Wavers
 - 앱소개 : 앱에서 내 차 정비 이력을 앱에서 한 눈에 조회, 간편한 예약, 내 차를 위한 맞춤형 케어
-- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, AppleLogin
+- 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, SnsLogin(kakao, facebook, naver, apple)
 - 담당 업무 : 설계, 개발
 - 앱스토어 : 스토어 등록 대기중
 
