@@ -89,7 +89,7 @@ src="images/bbros/10.png" width="160"/>
 - 앱소개 : 중고차 개인직거래 플랫폼
 - 개발 기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, SnsLogin(kakao, facebook, naver, apple)
 - 담당 업무 : 설계, 개발
-- 앱스토어 : 스토어 등록 대기중
+- 앱스토어 : https://apps.apple.com/kr/app/%EC%A7%81%EC%B0%A8-%EC%A4%91%EA%B3%A0%EC%B0%A8-%EC%A7%81%EA%B1%B0%EB%9E%98-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1438311886
 
 <img src="images/ziccha/01.png" width="160"/> <img 
 src="images/ziccha/02.png" width="160"/> <img 
