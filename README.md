@@ -8,7 +8,7 @@
 경력
 -
 ### Bbros ###
-* 2020.02 ~ 
+* 2020.02 ~ 2020.11
 
 ### Wavers ###
 * 2019.09 ~ 2020.02(프리랜서)
@@ -39,7 +39,7 @@
  ## 보유기술 및 사용가능 라이브러리
  - Swift
  - RxSwift
- - Architecture Framework(MVVM, RxViewBinder)
+ - Architecture Framework(MVVM, RxViewBinder, ReactorKit, VIP)
  - Restful API Network(alamofire, moya)
  - Image downloading and caching(SDWebImage, Kingfisher)
  - Autolayout(Storyboard & Code Base)
@@ -52,7 +52,7 @@
  - Kakao SDK(Navi, login, search api, map, channelTalk)
  - Google SDK(login, map, admob)
  - Facebook SDK(login,  audience Network)
- - Kicc, 이니시스 결제 연동
+ - Kicc, 이니시스 결제 연동, Nice
  - T-map 
  - AppleLogin
  - XcodeGen
