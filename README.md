@@ -42,7 +42,7 @@
  ## 보유기술 및 사용가능 라이브러리
  - Swift
  - RxSwift
- - Architecture Framework(MVVM, RxViewBinder, ReactorKit, VIP)
+ - Architecture Framework(MVVM, RxViewBinder, ReactorKit, VIP, Ribs)
  - Restful API Network(alamofire, moya)
  - Image downloading and caching(SDWebImage, Kingfisher)
  - Autolayout(Storyboard & Code Base)
@@ -60,9 +60,10 @@
  - AppleLogin
  - XcodeGen
  - SwiftPackageManager
- - Appsflyer
- - Adjust
- 
+ - Appsflyer, Adjust
+ - SwiftLint
+ - FastLane
+
  ##
  
 ### 회사 프로젝트
@@ -90,6 +91,8 @@
 	* 금융권 관련 모듈 적용으로 인한 시뮬레이터 빌드 안되는 현상 수정 
 	* 홈 리펙토링 이후 신규유저 CTA 유입 여부 A/B 테스트 적용
 	* 포그라운드, 백그라운드 푸시 딥링크 버그 수정
+	* 코드의 가독성을 증진시키고 협업하는 과정에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용
+	* 테스트 코드 작성
 - 앱스토어 : https://apps.apple.com/KR/app/id1494077875?mt=8
 
 <img src="images/finda/01.png" width="160"/> <img 
@@ -107,19 +110,18 @@ src="images/finda/07.png" width="160"/>
 - 개발환경: Xcode  
 - 사용기술: Swift, RxSwift, MVVM, Firebase, Moya, R.swift, Xcodegen, Cocoapods, SwiftPackageManager, SnsLogin(kakao, facebook, naver, apple)
 - 수행업무:
-	* 신규 검색 기능 고도화  
+	* 신규 검색 기능 고도화 작업으로 인한 앱 리펙토링  
 	* 통신 Layer분리 작업
 - 개선사항:
-	* Finda 마케팅을위해서 여러마케팅플랫폼( AppsFlyer) 연동지원
 	* Xcodegen 도입하여 자주 발생하는 프로젝트 설정 파일 충돌 문제 해결
 	* 코드 생산성과 일관성을 위해 코드 템플릿 제작
 	* 파편화되어 있는 프로젝트 아키텍처를 통일하기 위하여 MVVM  도입
 	* image, font 등을 불러올 때 수동으로 문자열을 작성하기 때문에 잘못 작성 시 크래쉬가 나는상황을 
 	줄이기 위해 R.swift를 사용하여 build시에 image, font, colors, localizable string와 같은 것들을 
 	자동으로 상수화 시키도록 하여 크래쉬를 없애 안전성을 높임
-	* 포그라운드, 백그라운드 푸시 딥링크 버그 수정
 	*  (Swift Language Version → 3.0 에서 5.0으로 컨버팅 작업 진행
 	오픈소스 라이브러리 Swift Language Version 에 따른 에러 해결 )
+	* 코드의 가독성을 증진시키고 협업하는 과정에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용
 - 앱스토어 : https://apps.apple.com/kr/app/똑닥/id1014889755
 
 <img src="images/bbros/01.png" width="160"/> <img 
@@ -143,6 +145,7 @@ src="images/bbros/10.png" width="160"/>
 - 개선사항:
 	* 코드 생산성과 일관성을 위해 코드 템플릿 제작 
 	* 프로젝트를 하나의 기본 프로젝트와 CocoaPods를 사용하여 기본 프로젝트에 추가되는 여러 하위 프로젝트로 모듈화 
+	* 코드의 가독성을 증진시키고 협업하는 과정에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용
 - 앱스토어 : https://apps.apple.com/kr/app/%EC%A7%81%EC%B0%A8-%EC%A4%91%EA%B3%A0%EC%B0%A8-%EC%A7%81%EA%B1%B0%EB%9E%98-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1438311886
 
 <img src="images/ziccha/01.png" width="160"/> <img 
