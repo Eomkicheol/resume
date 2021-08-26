@@ -10,9 +10,6 @@
 ### Finda ###
 * 2021.02 ~ 
 
-### Fitpet ###
-* 2020.11 ~ 2021.02
-
 ### Bbros ###
 * 2020.02 ~ 2020.11
 
@@ -63,6 +60,8 @@
  - AppleLogin
  - XcodeGen
  - SwiftPackageManager
+ - Appsflyer
+ - Adjust
  
  ##
  
