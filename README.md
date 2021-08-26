@@ -95,13 +95,16 @@
 	* 테스트 코드 작성
 - 앱스토어 : https://apps.apple.com/KR/app/id1494077875?mt=8
 
-<img src="images/finda/01.png" width="160"/> <img 
-src="images/finda/02.png" width="160"/> <img 
-src="images/finda/03.png" width="160"/> <img 
-src="images/finda/04.png" width="160"/> <img 
-src="images/finda/05.png" width="160"/> <img 
-src="images/finda/06.png" width="160"/> <img 
-src="images/finda/07.png" width="160"/> 
+<img src="images/finda/01.jpg" width="160"/> <img 
+src="images/finda/02.jpg" width="160"/> <img 
+src="images/finda/03.jpg" width="160"/> <img 
+src="images/finda/04.jpg" width="160"/> <img 
+src="images/finda/05.jpg" width="160"/> <img 
+src="images/finda/06.jpg" width="160"/> <img 
+src="images/finda/07.jpg" width="160"/><img 
+src="images/finda/08.jpg" width="160"/> <img 
+src="images/finda/09.jpg" width="160"/>  
+
 
 
 ### 똑닥
