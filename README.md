@@ -79,6 +79,7 @@
 	* 금융 스팸차단 기능개발
 	* Deeplink, Deferred Deeplink 개발
 	* 각종 analytics(firebase) 처리
+	* 마이데이터 연동
 - 개선사항:
 	* Finda 마케팅을위해서 마케팅플랫폼( AppsFlyer) 연동지원
 	* Xcodegen 도입하여 자주 발생하는 프로젝트 설정 파일 충돌 문제 해결
@@ -93,7 +94,6 @@
 	* 포그라운드, 백그라운드 푸시 딥링크 버그 수정
 	* 코드의 가독성을 증진시키고 협업하는 과정에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용
 	* 테스트 코드 작성
-	* 마이데이터 연동
 - 앱스토어 : https://apps.apple.com/KR/app/id1494077875?mt=8
 
 <img src="images/finda/01.jpg" width="160"/> <img 
