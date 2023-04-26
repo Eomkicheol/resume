@@ -88,13 +88,17 @@
   - 선생님앱 LMS연동
   - 점진적앱 리펙토링 작업 중
   - 앱 마케팅을위해서 마케팅플랫폼( AppsFlyer, Braze, Amplitude, Deeplink, Deferred Deeplink) 연동
-- 개선사항::
-  _ fastlane 사용하여 파이어베이스 앱 배포 자동화
-  _ fastlane 사용하여 Appstore, TestFlight 앱 배포 자동화
-  _ fastlane 사용하여 배포인증서, 푸시 인증서 관리
-  _ Tuist 을 이용한 멀티 모듈 환경구축
-  _ 파편화되어 있는 프로젝트 아키텍처를 통일하기 위하여 ReactorKit, RxSwift 도입
-  _ 코드의 가독성을 증진시키고 협업 에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용 \* iOS개발팀 내 Git-Flow 전략 및 코드리뷰 관련 정책 수립
+- 개선사항:
+  - fastlane 사용하여 파이어베이스 앱 배포 자동화
+  - fastlane 사용하여 Appstore, TestFlight 앱 배포 자동화
+  - fastlane 사용하여 배포인증서, 푸시 인증서 관리
+  - Tuist 을 이용한 멀티 모듈 환경구축
+  - 파편화되어 있는 프로젝트 아키텍처를 통일하기 위하여 ReactorKit, RxSwift 도입
+  - 코드의 가독성을 증진시키고 협업 에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용
+  - iOS개발팀 내 Git-Flow 전략 및 코드리뷰 관련 정책 수립
+- 앱스토어 : https://apps.apple.com/kr/app/%EC%A7%B8%EA%B9%8D%EC%95%85%EC%96%B4/id1189495776,
+  https://apps.apple.com/kr/app/%EC%A7%B8%EA%B9%8D%EC%95%85%EC%96%B4-%EC%84%A0%EC%83%9D%EB%8B%98%EC%95%B1/id1530507302
+
   <img src="images/tictoccroc/Parent/08.png" width="160"/>
   <img src="images/tictoccroc/Parent/01.png" width="160"/>
   <img src="images/tictoccroc/Parent/02.png" width="160"/>
