@@ -7,35 +7,29 @@
  
 경력
 - 
-### Finda ###
+### 째깍악어 ###
+* 2022.10 ~ 
+
+### 핀다 ###
 * 2021.03 ~ 2022.09 
 
-### Bbros ###
+### 비브로스 ###
 * 2020.02 ~ 2020.11
 
-### Wavers ###
-* 2019.09 ~ 2020.02(프리랜서)
+### 플라이앤컴퍼니 ###
+* 2018.09 ~ 2019.04
 
-### Ecube Labs
-* 2019.06 ~ 2019.09(프리랜서)
+### 앱튜브 ###
+* 2017.07 ~ 2018.09
 
-###  딜리버리 히어로 코리아
-* 2018.09 ~ 2019.03
+### 위키 ###
+* 2016.03 ~ 2016.11(프리랜서)
 
-### AppTube
-* 2017.07 ~ 2018.08
+### ezfarm ###
+* 2013.06 ~ 2015.12
 
-### NPD 마당
-* 2017.03 ~ 2017.06(프리랜서)
-
-### 위키
-* 2016.01 ~ 2016.11(프리랜서)
-
-### ezfarm
-* 2013.05 ~ 2015.11
-
-### ITPOP
-* 2012.03 ~ 2013.04
+### ITPOP ###
+* 2012.03 ~ 2013.06
 
  <br /> <br />
  
@@ -60,21 +54,44 @@
  - AppleLogin
  - XcodeGen
  - SwiftPackageManager
- - Appsflyer, Adjust
  - SwiftLint
  - FastLane
  - Tuist
+ - UnitTest
+ - AppsFlyer, Braze, Amplitude, Adjust 마케팅 툴 연동 
 
  ##
  
 ### 회사 프로젝트
 ### iOS
 
+### 째깍악어
+- 회사 : 째깍악어
+- 소개 : 유아 
+- 개발환경: Xcode  
+- 사용기술: Swift, RxSwift, ReactorKit, Cocoapods, SPM, Tuist, Firebase, Fastlane 
+- 수행업무:
+	* 본인인증 신규 개발
+	* 회원 가입 신규 개발
+	* 패키지 상품 서비스 신규 개발
+	* 선생님앱 LMS연동
+	* 점진적앱 리펙토링 작업 중
+	* 앱 마케팅을위해서 마케팅플랫폼( AppsFlyer, Braze, Amplitude, Deeplink, Deferred Deeplink) 연동
+	
+- 개선사항::
+	* fastlane 사용하여 파이어베이스 앱 배포 자동화
+	* fastlane 사용하여 Appstore, TestFlight 앱 배포 자동화
+	* fastlane 사용하여 배포인증서, 푸시 인증서 관리
+	* Tuist 을 이용한 멀티 모듈 환경구축
+	* 파편화되어 있는 프로젝트 아키텍처를 통일하기 위하여 ReactorKit, RxSwift 도입
+	* 코드의 가독성을 증진시키고 협업 에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용 
+	* iOS개발팀 내 Git-Flow 전략 및 코드리뷰 관련 정책 수립
+
 ### Finda
-- 회사 : Finda
+- 회사 : 핀다
 - 소개 : 대출 비교, 신청 관리 
 - 개발환경: Xcode  
-- 사용기술: Swift, RxSwift, ReactorKit, Firebase, Moya, R.swift, Xcodegen, Cocoapods 
+- 사용기술: Swift, RxSwift, ReactorKit, Firebase, Moya, R.swift, Xcodegen, Cocoapods, Fastlane
 - 수행업무:
 	* 인트로, 온보딩, 홈 화면 리펙토링
 	* 금융 스팸차단 기능개발
@@ -98,6 +115,7 @@
 	* 홈 리펙토링 이후 신규유저 CTA 유입 여부 A/B 테스트 적용
 	* 포그라운드, 백그라운드 푸시 딥링크 버그 수정
 	* 코드의 가독성을 증진시키고 협업하는 과정에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용
+	
 - 앱스토어 : https://apps.apple.com/KR/app/id1494077875?mt=8
 
 <img src="images/finda/01.jpg" width="160"/> <img 
@@ -109,7 +127,6 @@ src="images/finda/06.jpg" width="160"/> <img
 src="images/finda/07.jpg" width="160"/><img 
 src="images/finda/08.jpg" width="160"/> <img 
 src="images/finda/09.jpg" width="160"/>  
-
 
 
 ### 똑닥
@@ -143,54 +160,9 @@ src="images/bbros/08.png" width="160"/> <img
 src="images/bbros/09.png" width="160"/> <img 
 src="images/bbros/10.png" width="160"/> 
 
-### 직차
-- 회사 : Wavers
-- 앱소개 : 중고차 개인직거래
-- 개발환경: Xcode  
-- 사용기술: Swift, RxSwift, MVVM, Firebase, Moya, Cocoapods, SnsLogin(kakao, facebook, naver, apple)
-- 수행업무:
-	* 앱 신규 개발에 따른 설계 및 개발  
-- 개선사항:
-	* 코드 생산성과 일관성을 위해 코드 템플릿 제작 
-	* 프로젝트를 하나의 기본 프로젝트와 CocoaPods를 사용하여 기본 프로젝트에 추가되는 여러 하위 프로젝트로 모듈화 
-	* 코드의 가독성을 증진시키고 협업하는 과정에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용
-- 앱스토어 : https://apps.apple.com/kr/app/%EC%A7%81%EC%B0%A8-%EC%A4%91%EA%B3%A0%EC%B0%A8-%EC%A7%81%EA%B1%B0%EB%9E%98-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1438311886
 
-<img src="images/ziccha/01.png" width="160"/> <img 
-src="images/ziccha/02.png" width="160"/> <img 
-src="images/ziccha/03.png" width="160"/> <img 
-src="images/ziccha/04.png" width="160"/> <img 
-src="images/ziccha/05.png" width="160"/> <img 
-src="images/ziccha/06.png" width="160"/> <img 
-src="images/ziccha/07.png" width="160"/> 
-
-### JAXMotors
-- 회사 : Wavers
-- 앱소개 : 내 차 정비 이력 조회, 간편한 예약, 내 차를 위한 맞춤형 케어
-- 개발환경: Xcode  
-- 사용기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit), Wkweb, SnsLogin(kakao, facebook, naver, apple)
-- 담당 업무 : 설계, 개발
-- 앱스토어 : 스토어 등록 대기중
-
-<img src="images/Jax/01.png" width="160"/> <img 
-src="images/Jax/02.png" width="160"/> <img 
-src="images/Jax/03.png" width="160"/> <img 
-src="images/Jax/04.png" width="160"/> <img 
-src="images/Jax/05.png" width="160"/> <img 
-src="images/Jax/06.png" width="160"/> 
-
-### HAULLA
-- 회사 : Ecube Labs
-- 앱소개 : generator와 hauler를 실시간 bidding & matching
-- 개발환경: Xcode  
-- 사용기술 : Swift, MVVM, RxSwift,Code Base Auto Layout(Snapkit)
-- 담당 업무 : 설계, 개발
-- 앱스토어 : 스토어 등록 대기중(북미, 유럽 지역 서비스 예정)
-
-<img src="images/EcubeLabs/IMG_5372 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5371.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5370 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5369 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5368.PNG" width="160"/>  <img src="images/EcubeLabs/IMG_5367 2.PNG" width="160"/> <img src="images/EcubeLabs/IMG_5366.PNG" width="160"/>  <img src="images/EcubeLabs/IMG_5365.PNG" width="160"/> 
-
-### 푸드플라이 라이더앱
-- 회사 : 딜리버리히어로 코리아
+### 푸드플라이
+- 회사 : 플라이앤컴퍼니
 - 앱소개 : 푸드플라이 라이더 앱
 - 개발환경: Xcode
 - 사용기술 : Swift, MVVM, RxSwift
@@ -228,16 +200,6 @@ src="images/Jax/06.png" width="160"/>
 
 <img src="images/apptube/dongwha_01.jpg" width="160"/> <img src="images/apptube/dongwha_02.jpg" width="160"/> <img src="images/apptube/dongwha_03.jpg" width="160"/> <img src="images/apptube/dongwha_04.jpg" width="160"/> <img src="images/apptube/dongwha_05.jpg" width="160"/>
 
-
-### 골목대장 통 유저, 상점용
-- 회사 : NPD 마당
-- 앱소개 : 사용자 위치기반으로 지역상점 소개 ,주변매장 검색, 포인트 적립 및 포인트 환급, 모바일 광고
-- 개발환경: Xcode
-- 사용기술 : Swift
-- 담당 업무 : 개발
-- 앱스토어 : 현재 스토어에서 내려감
-
-<img src="images/npd/tong_01.PNG" width="160"/> <img src="images/npd/tong_02.PNG" width="160"/> <img src="images/npd/tong_03.PNG" width="160"/> <img src="images/npd/tong_04.PNG" width="160"/>  <img src="images/npd/tong_05.PNG" width="160"/>
 
 # 개인 프로젝트
 ### [아이돌볼]
