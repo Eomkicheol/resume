@@ -95,20 +95,21 @@
   _ Tuist 을 이용한 멀티 모듈 환경구축
   _ 파편화되어 있는 프로젝트 아키텍처를 통일하기 위하여 ReactorKit, RxSwift 도입
   _ 코드의 가독성을 증진시키고 협업 에서 일관된 코드 스타일을 유지 하기 위하여 SwiftLint적용 \* iOS개발팀 내 Git-Flow 전략 및 코드리뷰 관련 정책 수립
-  <img src="images/tictoccroc/Parent/01.png" width="160"/> <img 
-  src="images/tictoccroc/Parent/02.png" width="160"/> <img 
-  src="images/tictoccroc/Parent/03.png" width="160"/> <img 
-  src="images/tictoccroc/Parent/04.png" width="160"/> <img 
-  src="images/tictoccroc/Parent/05.png" width="160"/> <img 
-  src="images/tictoccroc/Parent/06.png" width="160"/> <img 
-  src="images/tictoccroc/Parent/07.png" width="160"/><img 
-  src="images/tictoccroc/Parent/08.png" width="160"/>
-  <img src="images/tictoccroc/Teacher/01.png" width="160"/> <img 
-  src="images/tictoccroc/Teacher/02.png" width="160"/> <img 
-  src="images/tictoccroc/Teacher/03.png" width="160"/> <img 
-  src="images/tictoccroc/Teacher/04.png" width="160"/> <img 
-  src="images/tictoccroc/Teacher/05.png" width="160"/> <img 
-  src="images/tictoccroc/Teacher/06.png" width="160"/>
+  <img src="images/tictoccroc/Parent/08.png" width="160"/>
+  <img src="images/tictoccroc/Parent/01.png" width="160"/>
+  <img src="images/tictoccroc/Parent/02.png" width="160"/>
+  <img src="images/tictoccroc/Parent/03.png" width="160"/>
+  <img src="images/tictoccroc/Parent/04.png" width="160"/>
+  <img src="images/tictoccroc/Parent/05.png" width="160"/>
+  <img src="images/tictoccroc/Parent/06.png" width="160"/>
+  <img src="images/tictoccroc/Parent/07.png" width="160"/>
+
+  <img src="images/tictoccroc/Teacher/06.png" width="160"/>
+  <img src="images/tictoccroc/Teacher/01.png" width="160"/> 
+  <img src="images/tictoccroc/Teacher/02.png" width="160"/> 
+  <img src="images/tictoccroc/Teacher/03.png" width="160"/> 
+  <img src="images/tictoccroc/Teacher/04.png" width="160"/> 
+  <img src="images/tictoccroc/Teacher/05.png" width="160"/>
 
 ### Finda
 
