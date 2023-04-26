@@ -7,8 +7,6 @@
 
 경력
 
--
-
 ### 째깍악어
 
 - 2022.10 ~
@@ -104,12 +102,13 @@
   src="images/tictoccroc/Parent/05.png" width="160"/> <img 
   src="images/tictoccroc/Parent/06.png" width="160"/> <img 
   src="images/tictoccroc/Parent/07.png" width="160"/><img 
-  src="images/tictoccroc/Parent/08.png" width="160"/> <img src="images/tictoccroc/Teacher/01.png" width="160"/> <img 
+  src="images/tictoccroc/Parent/08.png" width="160"/>
+  <img src="images/tictoccroc/Teacher/01.png" width="160"/> <img 
   src="images/tictoccroc/Teacher/02.png" width="160"/> <img 
   src="images/tictoccroc/Teacher/03.png" width="160"/> <img 
   src="images/tictoccroc/Teacher/04.png" width="160"/> <img 
   src="images/tictoccroc/Teacher/05.png" width="160"/> <img 
-  src="images/tictoccroc/Teacher/06.png" width="160"/> <img
+  src="images/tictoccroc/Teacher/06.png" width="160"/>
 
 ### Finda
 
